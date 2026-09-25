@@ -1,0 +1,15 @@
+{
+  "name": "tervatrix",
+  "description": "Tools for building right-to-left (Hebrew, Arabic, Persian, Urdu) software",
+  "owner": {
+    "name": "Tervatrix",
+    "url": "https://tervatrix.com"
+  },
+  "plugins": [
+    {
+      "name": "rtl",
+      "source": "./plugins/rtl",
+      "description": "Build and review RTL interfaces without the usual bugs: five rules, the traps that pass review, and a checker that finds physical left/right CSS and Tailwind classes"
+    }
+  ]
+}

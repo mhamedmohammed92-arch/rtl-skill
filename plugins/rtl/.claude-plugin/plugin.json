@@ -1,0 +1,13 @@
+{
+  "name": "rtl",
+  "version": "1.0.0",
+  "description": "Build and review right-to-left (Hebrew, Arabic, Persian, Urdu) interfaces without the usual RTL bugs, with a zero-dependency checker",
+  "author": {
+    "name": "Tervatrix",
+    "url": "https://tervatrix.com"
+  },
+  "homepage": "https://github.com/mhamedmohammed92-arch/rtl-skill",
+  "repository": "https://github.com/mhamedmohammed92-arch/rtl-skill",
+  "license": "MIT",
+  "keywords": ["rtl", "hebrew", "arabic", "persian", "urdu", "i18n", "tailwind", "css", "bidi"]
+}
