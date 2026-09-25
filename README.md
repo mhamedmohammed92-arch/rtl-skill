@@ -60,6 +60,9 @@ wrong order.
 /plugin install rtl@tervatrix
 ```
 
+Or both in one command (Claude Code 2.1.275 or later):
+`/plugin install rtl --marketplace mhamedmohammed92-arch/rtl-skill`
+
 The `rtl-ui` skill then loads by itself whenever you work on RTL UI (it costs
 about 100 tokens until it fires). Or copy
 `plugins/rtl/skills/rtl-ui/` into `~/.claude/skills/` by hand.
